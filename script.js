@@ -1,4 +1,4 @@
 // JavaScript to be added
 
 
-alert("Hi")
+alert("new alert")
